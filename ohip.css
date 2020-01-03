@@ -1,0 +1,32 @@
+/*
+	CSS Style Sheet
+*/
+
+body {
+	background-color: #857ABD;;
+	color: Black;
+	 font-family: "Trebuchet MS", Helvetica, sans-serif
+}
+
+h1{
+color: White;
+font-style: italic;
+}
+
+input[type=submit]{
+  background:#00CC00;
+  color:#fff;
+  transition:800ms ease all;
+ border: none;
+cursor:pointer;
+  outline:none;
+padding:0 2em;
+height:30px;
+}
+input[type=submit] hover{
+  background:#fff;
+  color:#1AAB8A;
+
+}
+
+
